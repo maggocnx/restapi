@@ -1,0 +1,33 @@
+{
+  "name": "restapi",
+  "version": "0.0.1",
+  "description": "Simple resapi using mongoskin",
+  "keywords": [
+    "express",
+    "connect",
+    "mongoskin",
+    "authn",
+    "authentication"
+  ],
+  "author": {
+    "name": "Marco Grieb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maggocnx/restapi.git"
+  },
+  "bugs": {
+    "url": "http://github.com/maggocnx/restapi/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "passport-strategy": "1.x.x",
+    "pause": "0.0.1"
+  }
+}
