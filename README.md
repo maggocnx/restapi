@@ -1,4 +1,7 @@
-restapi
-=======
+# Restapi
 
-restapi
+## Restapi for mongoskin
+
+Usage
+  
+  require(app,db)
