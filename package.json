@@ -2,6 +2,7 @@
   "name": "restapi",
   "version": "0.0.1",
   "description": "Simple resapi using mongoskin",
+  "private" : true,
   "keywords": [
     "express",
     "connect",
