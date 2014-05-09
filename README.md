@@ -4,4 +4,4 @@
 
 Usage
   
-    require(app,db)
+    require("restapi")(app,db)
